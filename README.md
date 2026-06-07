@@ -1,4 +1,3 @@
-```markdown
 # 💼 Gross Pay Calculator
 
 A beginner Python console application that calculates an employee's gross pay based on hours worked and hourly pay rate, then displays a clean formatted payroll report.
@@ -97,7 +96,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 *Written by Marlena Fabrick — Computer Programming, Fall 2020*
-```
+
 
 ---
 
